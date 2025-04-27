@@ -1,4 +1,4 @@
 # XGBoost-based typhoon predictor for the Philippines
 This project utilizes an XGBoost model to predict the number of typhoons entering the Philippine Area of Responsibility in the upcoming month. The model is trained on a feature set comprising historical typhoon counts, Oceanic Niño Index (ONI) values, Dipole Mode Index (DMI) values, and wind speed and central pressure data, spanning a lag period of 1 to 12 months. To ensure robust performance evaluation, various cross-validation strategies were employed, with a specific focus on accurately predicting typhoon activity over the last five months of available data. This approach aims to provide valuable insights for disaster preparedness and mitigation efforts in the Philippines.
 
-This project is currently in its early stages of development. For inquiries, please contact us at jprmaulion[at]gmail[dot]com.
+This project is currently in its early stages of development. For inquiries, please contact me at jprmaulion[at]gmail[dot]com.
